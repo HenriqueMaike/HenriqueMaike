@@ -30,5 +30,11 @@
   <a href="https://www.linkedin.com/in/henrique-maike-84a152a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 </div>
+  
+ ##
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 
 ##
