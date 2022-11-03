@@ -33,6 +33,8 @@
   
  ##
   
+  ### Projeto Angular 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   
