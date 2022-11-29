@@ -38,7 +38,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/HenriqueMaike/calculadora_angular)
 
 ### Projetos React 
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=menu-e-rotas&theme=radical)](https://github.com/HenriqueMaike/menu-e-rotas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=previsao-do-tempo&theme=radical)](https://github.com/HenriqueMaike/previsao-do-tempo)
-  
+
 ##
