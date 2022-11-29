@@ -45,6 +45,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=formulario-email&theme=radical)](https://github.com/HenriqueMaike/formulario-email)
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=prime&theme=radical)](https://github.com/HenriqueMaike/prime)
+  
 
 ##
   
