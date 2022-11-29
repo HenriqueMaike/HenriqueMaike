@@ -36,7 +36,9 @@
   ### Projeto Angular 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
 
+### Projetos React 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=previsao-do-tempo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 ##
