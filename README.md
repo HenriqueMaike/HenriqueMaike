@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henrique Maike👋
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando React
 - 📫 Contate-me no e-mail: henriquemike1@hotmail.com
 - 😄 Pronouns: ele/dele
