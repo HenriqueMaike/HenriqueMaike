@@ -37,7 +37,7 @@
   ### Projeto Angular 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/HenriqueMaike/calculadora_angular)
-
+ 
 ### Projetos React 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=menu-e-rotas&theme=radical)](https://github.com/HenriqueMaike/menu-e-rotas)
@@ -48,11 +48,14 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=prime&theme=radical)](https://github.com/HenriqueMaike/prime)
   
-### Projeto NodeJS 
+### Projeto NodeJS - Backend
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda_node&theme=radical)](https://github.com/HenriqueMaike/agenda_node)
 
-  
+### Projetos NextJS
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda&theme=radical)](https://github.com/HenriqueMaike/agenda)
+    
 ### HTML/CSS
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=menu-reponsivo&theme=radical)](https://github.com/HenriqueMaike/menu-reponsivo)
