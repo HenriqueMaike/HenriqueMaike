@@ -48,11 +48,11 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=prime&theme=radical)](https://github.com/HenriqueMaike/prime)
   
-### Projeto NextJS | NodeJS - Backend
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda_node&theme=radical)](https://github.com/HenriqueMaike/agenda_node)
-
+### Projeto NextJS | NodeJS
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda&theme=radical)](https://github.com/HenriqueMaike/agenda)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=pizzaria&theme=radical)](https://github.com/HenriqueMaike/pizzaria)
     
 ### HTML/CSS
   
