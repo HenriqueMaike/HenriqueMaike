@@ -48,6 +48,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=prime&theme=radical)](https://github.com/HenriqueMaike/prime)
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=blog&theme=radical)](https://github.com/HenriqueMaike/blog)
+  
 ### Projeto NextJS | NodeJS
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda&theme=radical)](https://github.com/HenriqueMaike/agenda)
