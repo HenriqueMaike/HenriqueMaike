@@ -51,6 +51,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=blog&theme=radical)](https://github.com/HenriqueMaike/blog)
   
 ### Projeto NextJS | NodeJS
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=rick-and-morty&theme=radical)](https://github.com/HenriqueMaike/rick-and-morty)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda&theme=radical)](https://github.com/HenriqueMaike/agenda)
 
