@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Henrique Maike👋
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
-- 🌱 Estudando React
+- 🌱 Em constante aprendizado
 - 📫 Contate-me no e-mail: henriquemike1@hotmail.com
 - 😄 Pronouns: ele/dele
 
