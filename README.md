@@ -1,69 +1,79 @@
-### Olá! Eu sou o Henrique Maike👋
-
-- 🔭 Hoje trabalho com desenvolvimento Full Stack
-- 🌱 Em constante aprendizado
-- 📫 Contate-me no e-mail: henriquemike1@hotmail.com
-- 😄 Pronouns: ele/dele
-
--->
+# 🚀 Olá, eu sou o Henrique Maike!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/HenriqueMaike">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMaike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMaike&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=HenriqueMaike&color=0077B5&style=flat-square&label=PERFIL+VISUALIZADO" alt="HenriqueMaike" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henri-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+### 👨‍💻 Um pouco sobre mim
+- 🔭 **Foco Atual:** Desenvolvimento Full Stack (Ecossistema JS/TS & PHP/Laravel).
+- 🌱 **Evolução:** Cloud Computing (AWS) e Arquitetura de Sistemas.
+- 💬 **Contato:** [henriquemike010@gmail.com](mailto:henriquemike010@gmail.com)
+- 😄 **Pronomes:** Ele/Dele
+
+---
+
+### 🛠 Minhas Ferramentas & Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,aws,js,ts,react,nextjs,angular,nodejs,express,mongodb,mysql,git,vscode,figma&theme=dark" />
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.instagram.com/henriquemaike/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/RKrt7mrG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:henriquemike010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-maike-84a152a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
+### 📊 Estatísticas e Performance
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="50em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMaike&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMaike&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueMaike&theme=tokyonight&hide_border=true" />
 </div>
-  
- ##
-  
-  ### Projeto Angular 
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=calculadora_angular&theme=radical)](https://github.com/HenriqueMaike/calculadora_angular)
- 
-### Projetos React 
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=menu-e-rotas&theme=radical)](https://github.com/HenriqueMaike/menu-e-rotas)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=previsao-do-tempo&theme=radical)](https://github.com/HenriqueMaike/previsao-do-tempo)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=formulario-email&theme=radical)](https://github.com/HenriqueMaike/formulario-email)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=prime&theme=radical)](https://github.com/HenriqueMaike/prime)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=blog&theme=radical)](https://github.com/HenriqueMaike/blog)
-  
-### Projeto NextJS | NodeJS
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=rick-and-morty&theme=radical)](https://github.com/HenriqueMaike/rick-and-morty)
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=agenda&theme=radical)](https://github.com/HenriqueMaike/agenda)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=pizzaria&theme=radical)](https://github.com/HenriqueMaike/pizzaria)
-    
-### HTML/CSS
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=menu-reponsivo&theme=radical)](https://github.com/HenriqueMaike/menu-reponsivo)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=orbi&theme=radical)](https://github.com/HenriqueMaike/orbi)
-  
-  ### JAVASCRIPT
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=darkmode&theme=radical)](https://github.com/HenriqueMaike/darkmode)
+### 📂 Portfólio Completo
+
+#### 🌟 Projetos em Destaque
+<div align="center">
+  <a href="https://github.com/HenriqueMaike/pizzaria">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=pizzaria&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/HenriqueMaike/rick-and-morty">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMaike&repo=rick-and-morty&theme=tokyonight" />
+  </a>
+</div>
+
+#### 🛠️ Ecossistema de Desenvolvimento
+| Categoria | Projeto | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🚀 **Full Stack** | `Pizzaria App` | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Next](https://img.shields.io/badge/-Next.js-000?logo=next.js) | [🔗 Abrir](https://github.com/HenriqueMaike/pizzaria) |
+| ⚡ **Backend** | `Agenda Online` | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white) | [🔗 Abrir](https://github.com/HenriqueMaike/agenda) |
+| 🅰️ **Frontend** | `Calculadora` | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | [🔗 Abrir](https://github.com/HenriqueMaike/calculadora_angular) |
+| ⚛️ **Frontend** | `Previsão do Tempo` | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [🔗 Abrir](https://github.com/HenriqueMaike/previsao-do-tempo) |
+| ⚛️ **Frontend** | `Prime (Stream)` | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [🔗 Abrir](https://github.com/HenriqueMaike/prime) |
+| ⚛️ **Frontend** | `Blog Personal` | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [🔗 Abrir](https://github.com/HenriqueMaike/blog) |
+| ⚛️ **Frontend** | `Menu e Rotas` | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [🔗 Abrir](https://github.com/HenriqueMaike/menu-e-rotas) |
+| 📜 **Scripts** | `DarkMode Pro` | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [🔗 Abrir](https://github.com/HenriqueMaike/darkmode) |
+| 🌐 **Web Static** | `Menu Responsivo` | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | [🔗 Abrir](https://github.com/HenriqueMaike/menu-reponsivo) |
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="center">
+  <a href="https://www.linkedin.com/in/henrique-maike-84a152a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.gg/RKrt7mrG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/henriquemaike/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:henriquemike010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
