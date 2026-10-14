@@ -29,7 +29,7 @@ const henrique = {
   focus:      ["JavaScript / TypeScript", "PHP / Laravel"],
   frontend:   ["React", "Next.js", "Angular"],
   backend:    ["Node.js", "Express", "Laravel"],
-  databases:  ["MySQL", "MongoDB"],
+  databases:  ["PostgreSQL", "MySQL", "MongoDB"],
   learning:   ["AWS Cloud", "Arquitetura de Sistemas"],
   pronouns:   "ele/dele",
   contact:    "henriquemike010@gmail.com",
@@ -60,7 +60,7 @@ const henrique = {
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass&theme=dark" />
   <br/><br/>
   <b>Backend & Dados</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,mongodb,prisma&theme=dark" />
   <br/><br/>
   <b>Cloud & Ferramentas</b><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,figma,postman&theme=dark" />
